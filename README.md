@@ -27,7 +27,7 @@ End-to-end analysis of customer churn and revenue for a simulated B2B SaaS compa
 ## Live Notebook
 
 Full interactive notebook:  
-[![Open in nbviewer](https://img.shields.io/badge/View%20Notebook-nbviewer-orange)](https://nbviewer.org/github/mnavaya/TechStream-Churn-Revenue-Analysis/blob/main/TechStream_Churn_Revenue_Analysis.ipynb)
+[![Open in nbviewer](https://img.shields.io/badge/View%20Notebook-nbviewer-orange)](https://nbviewer.org/github/mnavaya/customer-churn-revenue-analysis/blob/main/TechStream_Churn_Revenue_Analysis.ipynb)
 
 
 ## Key Visuals
